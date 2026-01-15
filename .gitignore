@@ -1,0 +1,8 @@
+config.py
+env/
+sys_data.csv
+logs/
+script.sh
+# Python cache
+**/__pycache__/
+*.pyc
