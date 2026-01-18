@@ -7,3 +7,6 @@ script.sh
 **/__pycache__/
 *.pyc
 .ipynb_checkpoints/
+data/
+images/
+*.png
