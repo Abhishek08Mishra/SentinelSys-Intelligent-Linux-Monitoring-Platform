@@ -137,8 +137,11 @@ jupyter notebook linux_sys_analysis_EDA.ipynb
 The project utilizes integrated GitHub features to manage development:
 
 • Issues: Used to plan and track work, bugs, or enhancements,.
+
 • Pull Requests: Used to manage and review code changes,.
+
 • Actions: Employed to automate workflows,.
+
 • Security: Leverages GitHub Advanced Security to find and fix vulnerabilities.
 
 --------------------------------------------------------------------------------
@@ -163,9 +166,10 @@ Contributions are welcome. Please follow these steps:
 ## License 📜
 
 This project is licensed under the MIT License. For more details, refer to the LICENSE file.
---------------------------------------------------------------------------------------------
+
 
 📬 Contact & Support
+---------------------
 
 • Project Maintainer: Abhishek08Mishra.
 
