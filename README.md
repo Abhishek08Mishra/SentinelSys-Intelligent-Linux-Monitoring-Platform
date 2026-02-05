@@ -90,7 +90,6 @@ SentinelSys/
 
 ---
 
---------------------------------------------------------------------------------
 🛠️ Technologies and Languages
 
 The project is built predominantly as an analytical platform, leveraging the following language distribution:
@@ -102,7 +101,8 @@ The project is built predominantly as an analytical platform, leveraging the fol
 
 🚀 Getting Started
 
-1️⃣ Clone the Repository (Note: This command is standard for GitHub but the specific URL is derived from the repository owner name in the sources,)
+1️⃣ Clone the Repository 
+
 git clone [https://github.com/Abhishek08Mishra/SentinelSys-Intelligent-Linux-Monitoring-Platform.git](https://github.com/Abhishek08Mishra/SentinelSys-Intelligent-Linux-Monitoring-Platform)
 
 cd SentinelSys-Intelligent-Linux-Monitoring-Platform
@@ -145,7 +145,9 @@ The project utilizes integrated GitHub features to manage development:
 📈 Future Enhancements
 
 • Integration of real-time dashboards (e.g., Streamlit).
+
 • Alerting systems for critical performance thresholds.
+
 • Containerization for easier deployment.
 
 --------------------------------------------------------------------------------
@@ -158,11 +160,16 @@ Contributions are welcome. Please follow these steps:
 4. For major changes, please open an Issue first to discuss your proposal.
 
 --------------------------------------------------------------------------------
+## License 📜
+
+This project is licensed under the MIT License. For more details, refer to the LICENSE file.
+--------------------------------------------------------------------------------------------
+
 📬 Contact & Support
 
 • Project Maintainer: Abhishek08Mishra.
 
- **Abhishek Mishra**
+  **Abhishek Mishra**
  <p align="center">
   <a href="https://github.com/Abhishek08Mishra">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -174,5 +181,3 @@ Contributions are welcome. Please follow these steps:
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p> 
-
-• Documentation: Available via the GitHub Repository.
