@@ -17,7 +17,7 @@ Designed as a comprehensive, self-paced project, SentinelSys integrates:
 - **Visualization dashboards**
 - **Machine learning analytics**
 
----The project integrates **Linux system monitoring**, **Python-based data engineering**, and **data science analytics**, demonstrating how low-level system data can support intelligent decision-making.
+The project integrates **Linux system monitoring**, **Python-based data engineering**, and **data science analytics**, demonstrating how low-level system data can support intelligent decision-making.
 
 ---
 
